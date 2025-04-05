@@ -45,9 +45,9 @@ project/
 │   │   ├── patient/
 │   │   │   ├── Dashboard.tsx
 │   │   │   ├── Appointments.tsx
-│   │   │   ├── Records.tsx ✅ (create this)
-│   │   │   ├── Prescriptions.tsx ✅ (create this)
-│   │   │   └── Bills.tsx ✅ (create this)
+│   │   │   ├── Records.tsx
+│   │   │   ├── Prescriptions.tsx
+│   │   │   └── Bills.tsx
 │   │   ├── others/
 │   │   │   ├── Dashboard.tsx
 │   │   │   └── Appointments.tsx
@@ -60,6 +60,7 @@ project/
 ├── package.json
 ├── tsconfig.json
 └── vite.config.ts
+  
 
 
 **Explanation of Key Directories and Files:**
