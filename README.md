@@ -26,40 +26,8 @@ This is a web-based Medical Management System built using React, TypeScript, and
 - **Medical Records:**
     - Medical records for patients.
 
-project/
-├── public/
-│   └── index.html
-├── src/
-│   ├── assets/
-│   ├── components/
-│   │   ├── Navbar.tsx
-│   │   └── LogoutButton.tsx
-│   ├── pages/
-│   │   ├── auth/
-│   │   │   ├── Login.tsx
-│   │   │   └── Register.tsx
-│   │   ├── doctor/
-│   │   │   ├── Dashboard.tsx
-│   │   │   ├── Appointments.tsx
-│   │   │   └── Patients.tsx
-│   │   ├── patient/
-│   │   │   ├── Dashboard.tsx
-│   │   │   ├── Appointments.tsx
-│   │   │   ├── Records.tsx
-│   │   │   ├── Prescriptions.tsx
-│   │   │   └── Bills.tsx
-│   │   ├── others/
-│   │   │   ├── Dashboard.tsx
-│   │   │   └── Appointments.tsx
-│   ├── routes/
-│   │   └── ProtectedRoute.tsx
-│   ├── App.tsx
-│   ├── main.tsx
-│   └── index.css
-├── .env
-├── package.json
-├── tsconfig.json
-└── vite.config.ts
+![online_viewer_net](https://github.com/user-attachments/assets/e2229e91-71a3-4ad9-ac2a-1ca1e4e4862d)
+
   
 
 
