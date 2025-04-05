@@ -26,7 +26,6 @@ This is a web-based Medical Management System built using React, TypeScript, and
 - **Medical Records:**
     - Medical records for patients.
 
-## Project Structure
 project/
 ├── public/
 │   └── index.html
